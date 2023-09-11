@@ -1,1 +1,1 @@
-# Loan_prediction_analysis_System_for_forecasting_customer_attrition.
+#System_for_forecasting_customer_attrition.
